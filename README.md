@@ -1,14 +1,5 @@
-Author Carpentry : Lesson Template
+Author Carpentry : Fair Attribution for Contributorship with Project Credit taxonomy
 =======
-
-A description of the lesson goes here.  If you're reading this on the github
-repo, you see the rendered lesson at:
-
-http://authorcarpentry.github.io/lesson-template-mkpage
-
-This template is inspired by the software and data carpentry templates, 
-but it employs the mkpage site generation tool as an alternative
-to Jekyll.  Full usage information is at the bottom of the page.
 
 **Content Contributors: Name **
 
@@ -17,6 +8,15 @@ to Jekyll.  Full usage information is at the bottom of the page.
 
 
 **Lesson status: In Development**
+
+##Learning Objectives:
+- Review Project CreDIt Taxonomy maintained by CASRAI
+- Review published article where CredIt Taxonomy has been applied
+- Create an Open VIVO account and link to OrCiD
+- Complete questionnaire about contributor roles for each work harvested from
+  the OrCiD Profile
+- Display public version of OpenVivo Profile to see how others can assess your
+  contributions to various research outputs
 
 ## Topics:
 
