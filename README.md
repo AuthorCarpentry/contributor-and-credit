@@ -1,10 +1,10 @@
 Author Carpentry : Fair Attribution for Contributorship with Project Credit taxonomy
 =======
 
-**Content Contributors: Name **
+* Content Contributors: Gail Clement  *
 
 
-**Lesson Maintainers: Name **
+* Lesson Maintainers: Gail Clement *
 
 
 **Lesson status: In Development**
