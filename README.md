@@ -3,9 +3,7 @@ Author Carpentry : Fair Attribution for Contributorship with Project Credit taxo
 
 *Content Contributors: Gail Clement*
 
-
 *Lesson Maintainers: Gail Clement*
-
 
 **Lesson status: In Development**
 
