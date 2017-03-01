@@ -142,9 +142,12 @@ section {
      color: black;
      background-color: white;
      margin-left: 1em;
-     margin-right: 2em;
      margin-bottom: 2em;
      padding 0;
+}
+
+section p {
+    max-width: 95%;
 }
 
 section h1 {
