@@ -1,3 +1,3 @@
 #!/bin/bash
-git commit -am snapshot
-git push origin gh-pages
+git commit -am "Rendered Edits"
+git push origin 
