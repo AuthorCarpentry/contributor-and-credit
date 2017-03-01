@@ -21,7 +21,6 @@ Author Carpentry : Fair Attribution for Contributorship with Project Credit taxo
 1. [Topic 1](00-getting-started.html)
 2. [Topic 2](01-working-with-openrefine.html)
 3. [Topic 3](02-scripts.html)
-4. [Topic 4](03-save-export.html)
 
 ### Optional
 - [Topic 5](04-services.html)
