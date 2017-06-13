@@ -7,7 +7,7 @@ Author Carpentry : Fair Attribution for Contributorship with Project Credit taxo
 
 **Lesson status: In Development**
 
-## Learning Objectives:
+## What you will learn:
 - Review Project CreDIt Taxonomy maintained by CASRAI
 - Review published article where CredIt Taxonomy has been applied
 - Create an Open VIVO account and link to OrCiD
